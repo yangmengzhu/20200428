@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b4bade-ff8e-4770-9866-ff6201e45189" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aypLcfsO0nQGOCN6nax0a4osbu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="20200424" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b4bade-ff8e-4770-9866-ff6201e45189" name="Default Changelist" comment="" />
+      <created>1587717632792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587717632792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="172" key="GridCell.Tab.0.bottom" timestamp="1587890266831">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="172" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587890266831" />
+    <state width="1286" height="172" key="GridCell.Tab.0.center" timestamp="1587890266831">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="172" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587890266831" />
+    <state width="1286" height="172" key="GridCell.Tab.0.left" timestamp="1587890266831">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="172" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587890266831" />
+    <state width="1286" height="172" key="GridCell.Tab.0.right" timestamp="1587890266831">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="172" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587890266831" />
+    <state width="1286" height="215" key="GridCell.Tab.1.bottom" timestamp="1587889955940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="215" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587889955940" />
+    <state width="1286" height="215" key="GridCell.Tab.1.center" timestamp="1587889955940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="215" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1587889955940" />
+    <state width="1286" height="215" key="GridCell.Tab.1.left" timestamp="1587889955940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="215" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1587889955940" />
+    <state width="1286" height="215" key="GridCell.Tab.1.right" timestamp="1587889955940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="215" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1587889955940" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1587824738980">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1587824738980" />
+    <state x="467" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587881131468">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="467" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1587881131468" />
+    <state x="346" y="59" width="670" height="58" key="search.everywhere.popup" timestamp="1587894045393">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="670" height="58" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1587894045393" />
+  </component>
+</project>
